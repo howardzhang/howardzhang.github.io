@@ -1,5 +1,4 @@
 excerpt_separator: ""
-pygments: true
 markdown: kramdown
 highlighter: rouge
 url: http://howardzhang.github.io
@@ -8,3 +7,4 @@ tagline: A log of everyday life
 description: My awesome new site
 paginate: 5
 timezone: CH
+gems: [jekyll-paginate]
