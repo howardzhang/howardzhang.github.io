@@ -1,6 +1,7 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
+highlighter: rouge
 url: http://howardzhang.github.io
 title: Hou Wa Cheung
 tagline: A log of everyday life
