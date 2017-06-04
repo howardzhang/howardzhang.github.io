@@ -3,7 +3,7 @@ pygments: true
 markdown: kramdown
 highlighter: rouge
 url: http://howardzhang.github.io
-title: Hou Wa Cheung
+title: Hou Wa Cheung's Blog
 tagline: A log of everyday life
 description: My awesome new site
 paginate: 5
