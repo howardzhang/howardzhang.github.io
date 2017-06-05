@@ -24,7 +24,7 @@ sass:
 author:
   name: Cheung Hou Wa
   description: A passionate <strong>developer</strong>, lifelong learning.
-  gavatar: 8fcdcec2676d70c15efa28bd27919537
+  gravatar: 8fcdcec2676d70c15efa28bd27919537
 nav:
   Home:
     - '/'
