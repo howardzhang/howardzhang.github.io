@@ -2,6 +2,8 @@
 published: true
 layout: post
 title: Why HTTP dictates that responses must arrive in the order they were requested?
+tags: [HTTP]
+category: Network
 ---
 This post is still in progress. Not Ready for reading.
 

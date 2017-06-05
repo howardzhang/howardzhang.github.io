@@ -1,10 +1,41 @@
 excerpt_separator: ""
-markdown: kramdown
+
 highlighter: rouge
-url: http://howardzhang.github.io
-title: Hou Wa Cheung's Blog
-tagline: A log of everyday life
-description: My awesome new site
-paginate: 5
-timezone: CH
 gems: [jekyll-paginate]
+
+url: https://howardzhang.github.io
+title: Hou Wa Cheung's Blog
+tagline: lifelong learning, writing to learn
+description: lifelong learning, writing to learn
+paginate: 5
+#paginate_path: '/blog/page:num'
+timezone: CH
+permalink: pretty
+version: 1.0.0
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+
+sass:
+  style: compressed
+  sass_dir: _scss
+
+author:
+  name: Cheung Hou Wa
+  description: A passionate <strong>developer</strong>, lifelong learning.
+nav:
+  Home:
+    - '/'
+  Categories:
+    - '/categories/'
+  Tags:
+    - '/tags/'
+  About:
+    - '/about/'
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+mathjax: true
+google_analytics_token:
+disqus_short_name:
